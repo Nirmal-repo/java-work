@@ -14,6 +14,7 @@ public class WelcomeStringClass {
                 System.out.println("Hello Mr. Rinki");
 
         System.out.println("Hello Swati");
-
+        int a=10;
+        int b=90;
     }
 }
