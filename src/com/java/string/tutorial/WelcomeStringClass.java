@@ -13,14 +13,14 @@ public class WelcomeStringClass {
         
                 System.out.println("Hello Mr. Rinki");
 
-<<<<<<< HEAD
+
         System.out.println("Hello Swati");
         int a=10;
         int b=90;
-=======
+
         
        System.out.println("Welcome Shivpuri.....");
 
->>>>>>> 502d96e2992d30ae963b57c9f6879aeed9ddfbe7
+
     }
 }
