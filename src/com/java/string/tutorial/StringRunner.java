@@ -17,6 +17,7 @@ public class StringRunner {
 		StringRunner stringobj = new StringRunner();
 		System.out.println(stringobj.fname);
 		System.out.println(stringobj.lname);
+		System.out.println("Hellow I am from String Runner Class.....");
 
 		
 		
