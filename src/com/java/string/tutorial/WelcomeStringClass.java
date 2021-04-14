@@ -10,6 +10,8 @@ public class WelcomeStringClass {
 
         System.out.println("Hello mr. Vihaan");
         System.out.println("Hello Mr. Vivek");
+        
+                System.out.println("Hello Mr. Rinki");
 
 
     }
